@@ -1,7 +1,7 @@
 {
-  "name": "confusion",
+  "name": "this-aldy-project",
   "version": "1.0.0",
-  "description": "This is a website for Ristorante Con Fusion",
+  "description": "Ini website Aldy",
   "main": "index.html",
   "scripts": {
     "start": "npm run lite",
@@ -10,6 +10,10 @@
   },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aldyboting/this-aldy-project/issues"
+  },
+  "homepage": "https://github.com/aldyboting/this-aldy-project#readme",
   "devDependencies": {
     "lite-server": "^2.5.4"
   },
